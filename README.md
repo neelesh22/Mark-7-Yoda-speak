@@ -7,7 +7,7 @@ This app is a translation app which is made with fun translations API as part of
 ## Hosted on
 Netlify
 ## Website Link
-https://minions-speak-translation.netlify.app/
+https://yoda-app01.netlify.app/
 
 ### Home Page
 ![Screenshot](screenshot.png)
