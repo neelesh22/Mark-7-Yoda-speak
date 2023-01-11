@@ -10,4 +10,4 @@ Netlify
 https://yoda-app01.netlify.app/
 
 ### Home Page
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
