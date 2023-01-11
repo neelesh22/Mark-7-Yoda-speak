@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,400;1,700&display=swap');
+
+
+textarea{
+    height:5rem;
+    border-color:gray;
+    width: 60%;
+    align-self: center;
+    padding:1rem 1rem;
+    font-family: 'Alegreya', serif;
+    font-size: medium;
+}
+
+body {
+    text-align: center;
+    font-family: 'Alegreya', serif;
+    background-color: #616640;
+}
+
+button{
+    height:4rem;
+    border-color:gray;
+    width: 20%;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: larger;
+    font-family: 'Alegreya', serif;
+    background-color: #75934e;
+}
+
+#output{
+    border:1px solid gray;
+    background-color: white;
+    height:5rem;
+    width: 60%;
+    align-self: center;
+    padding:1rem 1rem;
+    margin: auto;
+    font-family: 'Alegreya', serif;
+    font-size: large;
+}
+
+nav{
+    height:1 rem;
+    padding:1rem 1rem;
+    margin-top: 0rem;
+    margin-bottom: 2rem;
+    background-color: #9d9974;
+    font-size:x-large;
+}
+
+img {
+    height: auto;  
+    max-width: 90%;
+    max-height: 150px;  
+  }
+
+footer{
+    height:2 rem;
+    padding:1rem 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #9d9974;
+}
+
+p{
+    font-size:medium;
+}
